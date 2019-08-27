@@ -1,6 +1,7 @@
 # radar-cluster
 GMM clustering method, initially developed for use with the BCPE Mt Bolton Data.
 
+In the process of cleaning up scratch notebooks for publication, apologies if there's any unclear comments!
 
 ## Building training datasets
 
